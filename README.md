@@ -1,4 +1,4 @@
 # Analytics
-Codes used in my work so far
-# H1 SQL
-# H1 Python
+Codes used in my work so far :bowtie:
+# SQL queries
+# Python scripts
